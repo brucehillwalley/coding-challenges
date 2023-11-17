@@ -1,5 +1,4 @@
-# JavaScript Coding Challenges
-
-List of coding challenges within JavaScript workshop as follows;
+## JavaScript Coding Challenges
+live solition list
 
 
