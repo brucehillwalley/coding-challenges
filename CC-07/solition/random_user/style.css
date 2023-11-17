@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(123,156,169);
+}
+
+.user-container {
+    border: 2px solid #ccc;
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    cursor: pointer;
+    background-color: rgb(174,194,198);
+}
+
+img {
+    margin-bottom: 10px;
+    width: 100px;
+    height: 100px;
+}
+h2,
+p {
+    margin-bottom: 10px; 
+}
